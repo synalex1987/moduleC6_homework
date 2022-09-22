@@ -1,0 +1,10 @@
+.btn {
+    text-align: top;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 15px;
+    background-color: blue;
+    text-transform: capitalize;
+    color: white;
+}
